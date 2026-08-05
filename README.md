@@ -2,11 +2,18 @@
 
 ### Senior Software Engineer | AIoT & Backend Specialist
 
-I am a Control and Automation Engineer passionate about building modern, scalable, and high-performance solutions. I specialize in backend systems, high-performance IoT architectures, and device firmware development, always striving to deliver clean and maintainable code.
+I am a Control and Automation Engineer passionate about building modern, scalable, and high-performance solutions. I specialize in backend systems, AI engineering, high-performance IoT architectures, and device firmware development, always striving to deliver clean and maintainable code.
+
+---
+
+### 🤖 Talk to MiKiN, my Personal AI Agent!
+I've built a digital version of myself to answer your questions. Want to know more about my experience, skills, or past projects? **[Head over to mikin.ai](https://mikin.ai)** and ask him anything!
 
 <!-- Upload your logo directly to the repo and just use the filename in the src below -->
 <div align="center">
-  <img src="logo-mikin.png" alt="MiKiN Logo" width="150" />
+  <a href="https://mikin.ai">
+    <img src="logo-mikin.png" alt="MiKiN AI Agent Logo" width="150" />
+  </a>
 </div>
 
 <br>
@@ -27,7 +34,7 @@ I am a Control and Automation Engineer passionate about building modern, scalabl
 - 🔭 Currently working as **Technical Lead at CUCA AI**, focusing on backend architecture and multi-tenant implementation.
 - 🌱 Currently expanding my knowledge in **Applied AI Engineering**.
 - 🚀 Main focus: **Backend Systems, Embedded Systems (ESP-IDF), Cloud Infrastructure, and AI-powered apps**.
-- 💻 Building my professional hub at **mikin.ai** using Next.js and RAG.
+- 💻 Building and evolving my AI agent and professional hub at **[mikin.ai](https://mikin.ai)** using Next.js and RAG.
 
 ---
 
@@ -47,4 +54,4 @@ I am a Control and Automation Engineer passionate about building modern, scalabl
 
 - **LinkedIn**: [linkedin.com/in/guilhermebl](https://www.linkedin.com/in/guilhermebl/)
 - **Email**: [guilhermebalopes@gmail.com](mailto:guilhermebalopes@gmail.com)
-- **Portfolio**: [mikin.ai](https://mikin.ai)
+- **Portfolio & AI Agent**: [mikin.ai](https://mikin.ai)
