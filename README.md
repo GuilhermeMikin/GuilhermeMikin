@@ -24,7 +24,7 @@ I've built a digital version of myself to answer your questions. Want to know mo
 - 🛠️ **Building [AI Portfolio Template](https://github.com/GuilhermeMikin/ai-portfolio-template):** an open-source portfolio with an AI assistant that answers from your own content, extracted from mikin.ai.
 - 🚀 **Building PiKiTo Pages:** a landing-page platform where a coding agent turns each order's briefing into a repo, copy and a preview deploy.
 - 🌱 **Studying:** finishing a postgraduate degree in Applied AI Engineering (Dec 2026).
-- 💼 **Most recently:** Tech Lead at Envor Technologies (2024–2026), where I led a multi-tenant LLM platform from zero to pre-launch and shipped a Go number-portability gateway across 3 telecom operators.
+- 💼 **Most recently:** Tech Lead at Envor Technologies (2024–2026), where I led a multi-tenant LLM platform from zero to pre-launch, shipped a Go number-portability gateway across 3 telecom operators, and built the Go rating service of an SMS billing pipeline at ~10M CDRs/day, with automated re-rating that cut errors from about 10% to 0.1%.
 - 📡 **Before that:** IoT R&D at Wisebyte, running a fleet of 1,500+ devices from C/C++ firmware to Python backend.
 
 ---
