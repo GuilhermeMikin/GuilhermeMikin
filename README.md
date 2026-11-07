@@ -8,19 +8,13 @@ Based in Brazil, working remotely (UTC-3). Open to backend and applied AI roles.
 
 ---
 
-<table>
-  <tr>
-    <td width="170" align="center">
-      <a href="https://mikin.ai">
-        <img src="logo-mikin.png" alt="MiKiN AI Agent Logo" width="150" />
-      </a>
-    </td>
-    <td>
-      <h3>🤖 Talk to MiKiN, my Personal AI Agent!</h3>
-      <p>I've built a digital version of myself to answer your questions. Want to know more about my experience, skills, or past projects? <strong><a href="https://mikin.ai">Head over to mikin.ai</a></strong> and ask him anything!</p>
-    </td>
-  </tr>
-</table>
+<a href="https://mikin.ai"><img src="logo-mikin.png" alt="MiKiN AI Agent Logo" width="150" align="left" /></a>
+
+### 🤖 Talk to MiKiN, my Personal AI Agent!
+
+I've built a digital version of myself to answer your questions. Want to know more about my experience, skills, or past projects? **[Head over to mikin.ai](https://mikin.ai)** and ask him anything!
+
+<br clear="left" />
 
 ---
 
