@@ -9,6 +9,7 @@ Based in Brazil, working remotely (UTC-3). Open to backend and applied AI roles.
 ---
 
 <a href="https://mikin.ai"><img src="logo-mikin.png" alt="MiKiN AI Agent Logo" width="150" align="left" /></a>
+<br />
 
 ### 🤖 Talk to MiKiN, my Personal AI Agent!
 
